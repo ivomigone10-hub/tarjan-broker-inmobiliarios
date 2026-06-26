@@ -162,8 +162,7 @@ export default function App() {
                 Experiencia y excelencia en el mercado inmobiliario argentino.
               </p>
               <p className="mb-10 text-lg text-[#e0e9f3]">
-                ¿Tasación y esperar resultados? En Tarján Brokers Inmobiliarios
-                no sucede. Trabajamos proactivamente en todos los aspectos
+              Vender una propiedad requiere mucho más que publicarla.Trabajamos proactivamente en todos los aspectos
                 necesarios para concretar la venta, desde la tasación hasta el
                 día de la escrituración.
               </p>
